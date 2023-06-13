@@ -1,3 +1,13 @@
+# scp 1.10
+
+## scp 1.10.1
+
+- Fix failing unit test
+
+## scp 1.10.0
+
+- New Bioc release 3.17
+
 # scp 1.9
 
 ## scp 1.9.2
